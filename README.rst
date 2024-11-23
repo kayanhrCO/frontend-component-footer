@@ -8,6 +8,8 @@ frontend-component-footer
 Purpose
 ********
 
+- Updated  dependencies for sumac with openedx-footer master
+
 A generic footer for Open edX micro-frontend applications.  It includes a logo and an optional language selector dropdown.
 
 ***************
