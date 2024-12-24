@@ -2,7 +2,7 @@ name: Release CI
 on:
   push:
     branches:
-    - redwood/indigo
+    - kayan-footer
 jobs:
   release:
     name: Release
