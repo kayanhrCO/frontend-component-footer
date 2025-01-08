@@ -1,5 +1,5 @@
 {
-  "name": "@kayanhr/indigo-frontend-component-footer",
+  "name": "kayan-indigo-frontend-component-footer",
   "version": "1.0.0",
   "description": "Footer component for use when building Open edX frontend applications",
   "main": "dist/index.js",
@@ -29,9 +29,6 @@
   },
   "author": "edX",
   "license": "AGPL-3.0",
-  "bugs": {
-    "url": "https://github.com/kayanhrCO/frontend-component-footer/issues"
-  },
   "homepage": "https://github.com/kayanhrCO/frontend-component-footer#readme",
   "devDependencies": {
     "@edx/brand": "npm:@openedx/brand-openedx@^1.2.2",
